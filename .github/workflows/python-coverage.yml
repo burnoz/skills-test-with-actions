@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   python_coverage:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
